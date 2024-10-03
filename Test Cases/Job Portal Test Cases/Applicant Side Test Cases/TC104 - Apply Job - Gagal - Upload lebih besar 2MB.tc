@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Applicant click button see details to open job requirement</description>
+   <name>TC104 - Apply Job - Gagal - Upload lebih besar 2MB</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6426a8be-be86-421d-9a0d-85157848bb68</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8e0bc305-d6f6-4365-8c69-82bd2a07f015</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\Keenan Ariqul\\\\Downloads\\\\BUKU_PNS.pdf'</defaultValue>
+      <description></description>
+      <id>8e0bc305-d6f6-4365-8c69-82bd2a07f015</id>
+      <masked>false</masked>
+      <name>file2mb</name>
+   </variable>
+</TestCaseEntity>

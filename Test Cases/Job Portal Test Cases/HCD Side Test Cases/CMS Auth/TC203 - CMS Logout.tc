@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC203 - CMS Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e2c6ad10-2619-4fd6-8dc3-a442fdcc0e59</testCaseGuid>
+</TestCaseEntity>

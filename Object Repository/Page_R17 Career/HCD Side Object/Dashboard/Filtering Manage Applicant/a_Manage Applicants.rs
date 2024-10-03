@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Manage Applicants</name>
+   <tag></tag>
+   <elementGuidId>c9e66f77-1a11-4dda-9f67-26f796f0ecf6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/nav/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Manage Applicants&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cd1dbd35-1641-4a93-ab18-752549f5e9c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/cms/manage-applicants</value>
+      <webElementGuid>c062d466-368c-4875-955f-355737f42e88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-rr-ui-event-key</name>
+      <type>Main</type>
+      <value>/cms/manage-applicants</value>
+      <webElementGuid>ae4e4cf2-02fb-421f-810a-44ed353829cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex align-items-center mb-3 nav-link</value>
+      <webElementGuid>f11b53e2-e7e3-428f-bfdd-4c33f78c49ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Manage Applicants</value>
+      <webElementGuid>1b54431f-6341-4767-a037-ec267b24b59b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout-container&quot;]/div[@class=&quot;sidebar-container&quot;]/nav[@class=&quot;d-flex flex-column vh-100 sidebar navbar navbar-expand-lg navbar-light&quot;]/div[@class=&quot;d-flex flex-column navbar-nav&quot;]/a[@class=&quot;d-flex align-items-center mb-3 nav-link&quot;]</value>
+      <webElementGuid>856749d5-4607-4690-9972-27199571f712</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/nav/div/a[2]</value>
+      <webElementGuid>b49f0472-29d2-40b3-a303-d129a6da759d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HCD Portal'])[1]/following::a[2]</value>
+      <webElementGuid>53ebb6d8-a90b-40c0-8a58-d896e4f80342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::a[1]</value>
+      <webElementGuid>5dbc00d1-677e-4d6e-8e92-c7e41224f280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Applicants']/parent::*</value>
+      <webElementGuid>7773490a-0a14-4cfd-b795-5d4dfe4dd05a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/cms/manage-applicants')]</value>
+      <webElementGuid>44591565-b77b-41ce-9440-a42b68912f78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>36037a48-477d-467b-875f-94b792c69638</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/cms/manage-applicants' and (text() = ' Manage Applicants' or . = ' Manage Applicants')]</value>
+      <webElementGuid>ba495ae5-bf98-4f51-a49a-3bd4e9bf7818</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

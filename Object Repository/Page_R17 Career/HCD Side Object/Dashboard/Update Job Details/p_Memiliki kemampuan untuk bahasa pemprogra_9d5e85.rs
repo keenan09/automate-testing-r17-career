@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Memiliki kemampuan untuk bahasa pemprogra_9d5e85</name>
+   <tag></tag>
+   <elementGuidId>2d5514bf-111f-4519-bffc-631c722eff06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/div/table/tbody/tr/td[3]/p[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Memiliki kemampuan untuk bahasa pemprograman Phyton / C#&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>9522b8d6-b30a-4119-a00b-b325f90593c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-0</value>
+      <webElementGuid>f3f17a99-4903-41dd-b3bd-53014a5f054d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Memiliki kemampuan untuk bahasa pemprograman Phyton / C#</value>
+      <webElementGuid>3736b003-9345-4ce4-977b-e7b46238f490</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content-area&quot;]/div[@class=&quot;manage-jobs container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;job-table table table-bordered table-hover&quot;]/tbody[1]/tr[@class=&quot;table-row&quot;]/td[@class=&quot;job-description-cell&quot;]/p[@class=&quot;mb-0&quot;]</value>
+      <webElementGuid>b8e906f3-e1ed-4937-8477-b331df404f67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div/table/tbody/tr/td[3]/p[2]</value>
+      <webElementGuid>bedfb25d-fdf6-4e5a-b24a-21be326b7760</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Software Developer'])[1]/following::p[2]</value>
+      <webElementGuid>dfbbd237-a7bf-42d4-8b5b-631519aee760</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::p[2]</value>
+      <webElementGuid>99b2a19b-9b0d-4cde-b087-23e138f7eef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update'])[1]/preceding::p[3]</value>
+      <webElementGuid>3f4e3971-e7c6-47d8-b9c1-92b2754e4399</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Memiliki kemampuan untuk bahasa pemprograman Phyton / C#']/parent::*</value>
+      <webElementGuid>1556b729-7224-42be-8e29-4feb85bac7ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>cf819b4d-37b0-4950-8669-034e93593096</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Memiliki kemampuan untuk bahasa pemprograman Phyton / C#' or . = 'Memiliki kemampuan untuk bahasa pemprograman Phyton / C#')]</value>
+      <webElementGuid>1ce46864-dc9c-4705-a7cd-4616545f27ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

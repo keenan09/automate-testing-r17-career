@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Applicant click button see details to open job requirement</description>
+   <name>TC101 - See Details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d4b600ad-2dc0-400c-9799-696e8f7d7128</testCaseGuid>
+</TestCaseEntity>

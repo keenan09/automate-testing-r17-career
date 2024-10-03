@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Applicant can access job portal and scroll through it</description>
+   <name>TC302 - Job Portal - Pagination</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>00a6bffb-e175-4dc2-9ee2-5b560a24aea1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Applicant click button see details to open job requirement</description>
+   <name>TC102 - Apply Job - Berhasil</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a60eebd0-3970-4b62-b254-ab7d051790fd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>74315324-934f-4e1b-a90b-8c85507d85e6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\Keenan Ariqul\\\\Downloads\\\\CV.pdf'</defaultValue>
+      <description></description>
+      <id>74315324-934f-4e1b-a90b-8c85507d85e6</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

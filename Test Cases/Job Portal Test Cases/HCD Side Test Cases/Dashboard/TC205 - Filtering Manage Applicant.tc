@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC205 - Filtering Manage Applicant</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3512a92e-0cb4-4ded-b816-41d2fc502b5b</testCaseGuid>
+</TestCaseEntity>

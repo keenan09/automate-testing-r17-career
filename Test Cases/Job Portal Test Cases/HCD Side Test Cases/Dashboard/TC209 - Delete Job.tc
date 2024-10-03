@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC209 - Delete Job</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>157a80d1-f606-4b1a-9cfd-efde3a87b776</testCaseGuid>
+</TestCaseEntity>

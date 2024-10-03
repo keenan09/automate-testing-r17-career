@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_All PositionsIT Business AnalystDigi_8111a1</name>
+   <tag></tag>
+   <elementGuidId>b51729c8-22ed-4378-aa87-fb2d4ba6c4ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;selectedJob&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='selectedJob']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=combobox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>b6cf387a-759e-4c81-b2a3-b475704cc0fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>selectedJob</value>
+      <webElementGuid>ef2114b1-2ab7-4510-9487-2a81773ca500</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-select form-control</value>
+      <webElementGuid>31f88e46-3195-42e2-8bf1-bfb89777751c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All PositionsIT Business AnalystDigital MarketingSoftware Developer</value>
+      <webElementGuid>33e45cbb-dd5d-4f7e-b3d8-5144218d3aab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content-area&quot;]/div[@class=&quot;dashboard-container container-fluid animated&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-7&quot;]/form[@class=&quot;filter-form mb-4&quot;]/div[@class=&quot;align-items-center row&quot;]/div[@class=&quot;filter-item col-md-3&quot;]/div[1]/select[@class=&quot;filter-select form-control&quot;]</value>
+      <webElementGuid>9f2a6164-e2d4-4121-a833-7d24580835e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='selectedJob']</value>
+      <webElementGuid>04407b6f-da6d-4bb5-9b41-6953b286be22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/form/div/div[3]/div/select</value>
+      <webElementGuid>e01504cd-e084-48c3-b8ad-99ded818021a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Position'])[1]/following::select[1]</value>
+      <webElementGuid>af08e482-9c22-49e3-b10a-5c9639e77220</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End Date'])[1]/following::select[1]</value>
+      <webElementGuid>ce171f02-e36b-42ee-a261-ae198693a11c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::select[1]</value>
+      <webElementGuid>33809067-42ce-424d-b109-b4f22f3b2121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applicant Info'])[1]/preceding::select[1]</value>
+      <webElementGuid>5ffef9ee-28cf-4f7a-af8a-fd30532a9fb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>d02698ac-efb9-42bd-bca3-d80f42f103ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'selectedJob' and (text() = 'All PositionsIT Business AnalystDigital MarketingSoftware Developer' or . = 'All PositionsIT Business AnalystDigital MarketingSoftware Developer')]</value>
+      <webElementGuid>2b957cc9-5e24-4403-aa1a-c37cdd3bbde3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

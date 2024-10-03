@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC208 - Set Pending and Publish Job</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6ade4ece-3d51-4616-841a-42326b0c2e24</testCaseGuid>
+</TestCaseEntity>

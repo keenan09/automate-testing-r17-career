@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC202 - CMS Login - Gagal (Field tidak diisi semua)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7ed99d1e-6244-4493-be78-5e8478a8ef21</testCaseGuid>
+</TestCaseEntity>

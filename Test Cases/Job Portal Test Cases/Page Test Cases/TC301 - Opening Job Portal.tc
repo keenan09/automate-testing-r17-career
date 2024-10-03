@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Applicant can access job portal</description>
+   <name>TC301 - Opening Job Portal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>10cfdcae-92b2-412d-9852-4ab217592ee9</testCaseGuid>
+</TestCaseEntity>

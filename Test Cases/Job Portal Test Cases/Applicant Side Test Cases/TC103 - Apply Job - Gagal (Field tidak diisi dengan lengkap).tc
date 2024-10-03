@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Applicant click button see details to open job requirement</description>
+   <name>TC103 - Apply Job - Gagal (Field tidak diisi dengan lengkap)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c58e730a-06b3-4c60-b04c-b69e9666a600</testCaseGuid>
+</TestCaseEntity>

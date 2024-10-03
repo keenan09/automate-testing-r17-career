@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC207 - Update Job Details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5f89cdc5-bf68-430d-ac57-3bd4ad09ee65</testCaseGuid>
+</TestCaseEntity>

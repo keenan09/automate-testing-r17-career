@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Applicant can access job portal and scroll through it</description>
+   <name>TC303 - Job Portal - Filter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6c20c43a-83a6-483e-a385-ffcfa41739d7</testCaseGuid>
+</TestCaseEntity>

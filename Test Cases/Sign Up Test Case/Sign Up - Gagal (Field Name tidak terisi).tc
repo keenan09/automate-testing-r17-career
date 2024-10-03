@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user (applicant) berhasil untuk sign up</description>
+   <name>Sign Up - Gagal (Field Name tidak terisi)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>226e2194-635d-4056-8fc3-8a58751dca08</testCaseGuid>
+</TestCaseEntity>

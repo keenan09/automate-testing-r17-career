@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user (applicant) berhasil untuk sign up</description>
+   <name>Sign Up - Berhasil</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>892c8ccf-ce57-40cd-92f5-f3be37f16599</testCaseGuid>
+</TestCaseEntity>
